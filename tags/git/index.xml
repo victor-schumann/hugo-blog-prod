@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Git on victorschumann</title>
-    <link>https://victor-schumann.github.io/hugo-blog-prod/tags/git/</link>
+    <link>https://victorschumann.com/tags/git/</link>
     <description>Recent content in Git on victorschumann</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2024, victorschumann.com</copyright>
     <lastBuildDate>Sun, 01 Sep 2024 15:05:36 +0100</lastBuildDate>
-    <atom:link href="https://victor-schumann.github.io/hugo-blog-prod/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://victorschumann.com/tags/git/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Create a Hugo Blog Using GitHub</title>
-      <link>https://victor-schumann.github.io/hugo-blog-prod/post/create-hugo-blog/</link>
+      <link>https://victorschumann.com/post/create-hugo-blog/</link>
       <pubDate>Sun, 01 Sep 2024 15:05:36 +0100</pubDate>
-      <guid>https://victor-schumann.github.io/hugo-blog-prod/post/create-hugo-blog/</guid>
-      <description>I am a professional developer, but I believe you do not need to be one to build a blog with some code. There are many tools out there that (usually with a fee) allow us to create websites without programming, and it is okay to use them.&#xA;However, if you, like me, just want a simple blog that you&amp;rsquo;d like to have control over, likes to code you can go with this approach.</description>
+      <guid>https://victorschumann.com/post/create-hugo-blog/</guid>
+      <description>&lt;p&gt;I am a professional developer, but I believe you do not need to be one to build a blog with some code. There are many tools out there that (usually with a fee) allow us to create websites without programming, and it is okay to use them.&lt;/p&gt;&#xA;&lt;p&gt;However, if you, like me, just want a simple blog that you&amp;rsquo;d like to have control over, likes to code you can go with this approach.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

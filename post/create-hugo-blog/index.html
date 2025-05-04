@@ -74,14 +74,14 @@ However, if you, like me, just want a simple blog that you&rsquo;d like to have 
   
   
   
-  <link rel="preload stylesheet" as="style" href="https://victor-schumann.github.io/hugo-blog-prod/main.min.css" />
+  <link rel="preload stylesheet" as="style" href="https://victorschumann.com/main.min.css" />
 
   
   
   
   
   
-  <link rel="preload" as="image" href="https://victor-schumann.github.io/hugo-blog-prod/theme.png" />
+  <link rel="preload" as="image" href="https://victorschumann.com/theme.png" />
 
   
   
@@ -91,11 +91,11 @@ However, if you, like me, just want a simple blog that you&rsquo;d like to have 
 
   
   
-  <link rel="preload" as="image" href="https://victor-schumann.github.io/hugo-blog-prod/github.svg" />
+  <link rel="preload" as="image" href="https://victorschumann.com/github.svg" />
   
-  <link rel="preload" as="image" href="https://victor-schumann.github.io/hugo-blog-prod/goodreads.svg" />
+  <link rel="preload" as="image" href="https://victorschumann.com/goodreads.svg" />
   
-  <link rel="preload" as="image" href="https://victor-schumann.github.io/hugo-blog-prod/linkedin.svg" />
+  <link rel="preload" as="image" href="https://victorschumann.com/linkedin.svg" />
   
   
 
@@ -103,7 +103,7 @@ However, if you, like me, just want a simple blog that you&rsquo;d like to have 
   
   <script
     defer
-    src="https://victor-schumann.github.io/hugo-blog-prod/highlight.min.js"
+    src="https://victorschumann.com/highlight.min.js"
     onload="hljs.initHighlightingOnLoad();"
   ></script>
   
@@ -115,33 +115,30 @@ However, if you, like me, just want a simple blog that you&rsquo;d like to have 
   
   <link
     rel="icon"
-    href="https://victor-schumann.github.io/hugo-blog-prod/favicon.ico"
+    href="https://victorschumann.com/favicon.ico"
   />
   <link
     rel="apple-touch-icon"
-    href="https://victor-schumann.github.io/hugo-blog-prod/apple-touch-icon.png"
+    href="https://victorschumann.com/apple-touch-icon.png"
   />
 
   
-  <meta name="generator" content="Hugo 0.133.1">
+  <meta name="generator" content="Hugo 0.147.0">
 
   
   
   
   
-  
-
-
   
   
   <meta itemprop="name" content="How to Create a Hugo Blog Using GitHub">
   <meta itemprop="description" content="Use Hugo and Github create a personal blog from scratch">
   <meta itemprop="datePublished" content="2024-09-01T15:05:36+01:00">
   <meta itemprop="dateModified" content="2024-09-01T15:05:36+01:00">
-  <meta itemprop="wordCount" content="468">
+  <meta itemprop="wordCount" content="498">
   <meta itemprop="keywords" content="Programming,Git,Web">
   
-  <meta property="og:url" content="https://victor-schumann.github.io/hugo-blog-prod/post/create-hugo-blog/">
+  <meta property="og:url" content="https://victorschumann.com/post/create-hugo-blog/">
   <meta property="og:site_name" content="victorschumann">
   <meta property="og:title" content="How to Create a Hugo Blog Using GitHub">
   <meta property="og:description" content="Use Hugo and Github create a personal blog from scratch">
@@ -164,7 +161,7 @@ However, if you, like me, just want a simple blog that you&rsquo;d like to have 
   
 
   
-  <link rel="canonical" href="https://victor-schumann.github.io/hugo-blog-prod/post/create-hugo-blog/" />
+  <link rel="canonical" href="https://victorschumann.com/post/create-hugo-blog/" />
   
   
 </head>
@@ -172,7 +169,7 @@ However, if you, like me, just want a simple blog that you&rsquo;d like to have 
   <body class="text-black duration-200 ease-out dark:text-white">
     <header class="mx-auto flex h-[4.5rem] max-w-[--w] px-8 lg:justify-center">
   <div class="relative z-50 mr-auto flex items-center">
-    <a class="-translate-y-[1px] text-2xl font-medium" href="https://victor-schumann.github.io/hugo-blog-prod/"
+    <a class="-translate-y-[1px] text-2xl font-medium" href="https://victorschumann.com/"
       >victorschumann</a
     >
     <div
@@ -248,7 +245,7 @@ However, if you, like me, just want a simple blog that you&rsquo;d like to have 
       
       <a
         class="block text-center text-xl leading-[5rem] lg:text-base lg:font-normal"
-        href="/hugo-blog-prod/about/"
+        href="/about/"
         >About</a
       >
       
@@ -356,6 +353,11 @@ https://linkedin
 <p>Go to your repository -&gt; settings -&gt; pages and make sure your main branch is selected, together with your root folder. You might have to wait some minutes, but there you have it.</p>
 <p>If you followed this tutorial correctly, you should now have a working GitHub Hugo Blog. Just make sure the URL showing up at the GitHub pages is the same as the URL inside Hugo&rsquo;s configuration file.</p>
 <p>If you got lost, you can check this <a href="https://youtu.be/aizcO_HKOco">video</a> which depicts the above process.</p>
+<h3 id="notes-and-reminders">Notes and reminders</h3>
+<ul>
+<li>When you clone all of this in a new env, you will need to <code>git submodule update --init --recursive</code></li>
+<li>To build, use <code>hugo server</code> and <code>hugo</code> commands.</li>
+</ul>
 </section>
 
   
@@ -364,19 +366,19 @@ https://linkedin
      
     <a
       class="mb-1.5 mr-1.5 rounded-lg bg-black/[3%] px-5 py-1 no-underline hover:bg-black/[6%] dark:bg-white/[8%] dark:hover:bg-white/[12%]"
-      href="https://victor-schumann.github.io/hugo-blog-prod/tags/programming"
+      href="https://victorschumann.com/tags/programming"
       >programming</a
     >
      
     <a
       class="mb-1.5 mr-1.5 rounded-lg bg-black/[3%] px-5 py-1 no-underline hover:bg-black/[6%] dark:bg-white/[8%] dark:hover:bg-white/[12%]"
-      href="https://victor-schumann.github.io/hugo-blog-prod/tags/git"
+      href="https://victorschumann.com/tags/git"
       >git</a
     >
      
     <a
       class="mb-1.5 mr-1.5 rounded-lg bg-black/[3%] px-5 py-1 no-underline hover:bg-black/[6%] dark:bg-white/[8%] dark:hover:bg-white/[12%]"
-      href="https://victor-schumann.github.io/hugo-blog-prod/tags/web"
+      href="https://victorschumann.com/tags/web"
       >web</a
     >
     

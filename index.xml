@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>victorschumann</title>
-    <link>https://victor-schumann.github.io/hugo-blog-prod/</link>
+    <link>https://victorschumann.com/</link>
     <description>Recent content on victorschumann</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2024, victorschumann.com</copyright>
     <lastBuildDate>Sun, 01 Sep 2024 15:05:36 +0100</lastBuildDate>
-    <atom:link href="https://victor-schumann.github.io/hugo-blog-prod/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://victorschumann.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How to Create a Hugo Blog Using GitHub</title>
-      <link>https://victor-schumann.github.io/hugo-blog-prod/post/create-hugo-blog/</link>
+      <link>https://victorschumann.com/post/create-hugo-blog/</link>
       <pubDate>Sun, 01 Sep 2024 15:05:36 +0100</pubDate>
-      <guid>https://victor-schumann.github.io/hugo-blog-prod/post/create-hugo-blog/</guid>
-      <description>I am a professional developer, but I believe you do not need to be one to build a blog with some code. There are many tools out there that (usually with a fee) allow us to create websites without programming, and it is okay to use them.&#xA;However, if you, like me, just want a simple blog that you&amp;rsquo;d like to have control over, likes to code you can go with this approach.</description>
+      <guid>https://victorschumann.com/post/create-hugo-blog/</guid>
+      <description>&lt;p&gt;I am a professional developer, but I believe you do not need to be one to build a blog with some code. There are many tools out there that (usually with a fee) allow us to create websites without programming, and it is okay to use them.&lt;/p&gt;&#xA;&lt;p&gt;However, if you, like me, just want a simple blog that you&amp;rsquo;d like to have control over, likes to code you can go with this approach.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://victor-schumann.github.io/hugo-blog-prod/archives/</link>
+      <link>https://victorschumann.com/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://victor-schumann.github.io/hugo-blog-prod/archives/</guid>
+      <guid>https://victorschumann.com/archives/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>https://victor-schumann.github.io/hugo-blog-prod/about/</link>
+      <link>https://victorschumann.com/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://victor-schumann.github.io/hugo-blog-prod/about/</guid>
-      <description>Who am I? I&amp;rsquo;m Victor Schumann Macário, a programmer from Brazil and currently living and working in Portugal. I decided to start this blog since I was having some stubborn ideas after reading some books, and wanted to write about them. This blog is my personal notebook of things that I would like to write, remember or share.&#xA;I did try to write a blog before, with SEO strategies, ad revenue, niche focused… and I posted every day.</description>
+      <guid>https://victorschumann.com/about/</guid>
+      <description>&lt;h1 id=&#34;who-am-i&#34;&gt;Who am I?&lt;/h1&gt;&#xA;&lt;p&gt;I&amp;rsquo;m Victor Schumann Macário, a programmer from Brazil and currently living and working in Portugal. I decided to start this blog since I was having some stubborn ideas after reading some books, and wanted to write about them. This blog is my personal notebook of things that I would like to write, remember or share.&lt;/p&gt;&#xA;&lt;p&gt;I did try to write a blog before, with SEO strategies, ad revenue, niche focused… and I posted every day. I did not move on with that project. It was not only exhausting, but it also did not fulfill me. So, here I am, a couple of years later, starting fresh. I believe that if you enjoy the ride, you will stay, and there is no rush.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://victor-schumann.github.io/hugo-blog-prod/contact/</link>
+      <link>https://victorschumann.com/contact/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://victor-schumann.github.io/hugo-blog-prod/contact/</guid>
+      <guid>https://victorschumann.com/contact/</guid>
       <description></description>
     </item>
   </channel>

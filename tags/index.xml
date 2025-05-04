@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on victorschumann</title>
-    <link>https://victor-schumann.github.io/hugo-blog-prod/tags/</link>
+    <link>https://victorschumann.com/tags/</link>
     <description>Recent content in Tags on victorschumann</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2024, victorschumann.com</copyright>
     <lastBuildDate>Sun, 01 Sep 2024 15:05:36 +0100</lastBuildDate>
-    <atom:link href="https://victor-schumann.github.io/hugo-blog-prod/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://victorschumann.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Git</title>
-      <link>https://victor-schumann.github.io/hugo-blog-prod/tags/git/</link>
+      <link>https://victorschumann.com/tags/git/</link>
       <pubDate>Sun, 01 Sep 2024 15:05:36 +0100</pubDate>
-      <guid>https://victor-schumann.github.io/hugo-blog-prod/tags/git/</guid>
+      <guid>https://victorschumann.com/tags/git/</guid>
       <description></description>
     </item>
     <item>
       <title>Index</title>
-      <link>https://victor-schumann.github.io/hugo-blog-prod/tags/index/</link>
+      <link>https://victorschumann.com/tags/index/</link>
       <pubDate>Sun, 01 Sep 2024 15:05:36 +0100</pubDate>
-      <guid>https://victor-schumann.github.io/hugo-blog-prod/tags/index/</guid>
+      <guid>https://victorschumann.com/tags/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Programming</title>
-      <link>https://victor-schumann.github.io/hugo-blog-prod/tags/programming/</link>
+      <link>https://victorschumann.com/tags/programming/</link>
       <pubDate>Sun, 01 Sep 2024 15:05:36 +0100</pubDate>
-      <guid>https://victor-schumann.github.io/hugo-blog-prod/tags/programming/</guid>
+      <guid>https://victorschumann.com/tags/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Web</title>
-      <link>https://victor-schumann.github.io/hugo-blog-prod/tags/web/</link>
+      <link>https://victorschumann.com/tags/web/</link>
       <pubDate>Sun, 01 Sep 2024 15:05:36 +0100</pubDate>
-      <guid>https://victor-schumann.github.io/hugo-blog-prod/tags/web/</guid>
+      <guid>https://victorschumann.com/tags/web/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,41 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://victor-schumann.github.io/hugo-blog-prod/post/create-hugo-blog/</loc>
+    <loc>https://victorschumann.com/post/create-hugo-blog/</loc>
     <lastmod>2024-09-01T15:05:36+01:00</lastmod>
   </url><url>
-    <loc>https://victor-schumann.github.io/hugo-blog-prod/</loc>
+    <loc>https://victorschumann.com/</loc>
     <lastmod>2024-09-01T15:05:36+01:00</lastmod>
   </url><url>
-    <loc>https://victor-schumann.github.io/hugo-blog-prod/tags/git/</loc>
+    <loc>https://victorschumann.com/tags/git/</loc>
     <lastmod>2024-09-01T15:05:36+01:00</lastmod>
   </url><url>
-    <loc>https://victor-schumann.github.io/hugo-blog-prod/tags/index/</loc>
+    <loc>https://victorschumann.com/tags/index/</loc>
     <lastmod>2024-09-01T15:05:36+01:00</lastmod>
   </url><url>
-    <loc>https://victor-schumann.github.io/hugo-blog-prod/post/</loc>
+    <loc>https://victorschumann.com/post/</loc>
     <lastmod>2024-09-01T15:05:36+01:00</lastmod>
   </url><url>
-    <loc>https://victor-schumann.github.io/hugo-blog-prod/tags/programming/</loc>
+    <loc>https://victorschumann.com/tags/programming/</loc>
     <lastmod>2024-09-01T15:05:36+01:00</lastmod>
   </url><url>
-    <loc>https://victor-schumann.github.io/hugo-blog-prod/tags/</loc>
+    <loc>https://victorschumann.com/tags/</loc>
     <lastmod>2024-09-01T15:05:36+01:00</lastmod>
   </url><url>
-    <loc>https://victor-schumann.github.io/hugo-blog-prod/tags/web/</loc>
+    <loc>https://victorschumann.com/tags/web/</loc>
     <lastmod>2024-09-01T15:05:36+01:00</lastmod>
   </url><url>
-    <loc>https://victor-schumann.github.io/hugo-blog-prod/archives/</loc>
+    <loc>https://victorschumann.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://victor-schumann.github.io/hugo-blog-prod/about/</loc>
+    <loc>https://victorschumann.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://victor-schumann.github.io/hugo-blog-prod/contact/</loc>
+    <loc>https://victorschumann.com/contact/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://victor-schumann.github.io/hugo-blog-prod/categories/</loc>
+    <loc>https://victorschumann.com/categories/</loc>
   </url><url>
-    <loc>https://victor-schumann.github.io/hugo-blog-prod/series/</loc>
+    <loc>https://victorschumann.com/series/</loc>
   </url>
 </urlset>
