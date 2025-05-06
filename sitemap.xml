@@ -2,38 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:34909/</loc>
-    <lastmod>2025-06-01T15:05:36+01:00</lastmod>
+    <loc>https://victorschumann.com/post/programming-challenge/</loc>
+    <lastmod>2025-05-05T15:05:30+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:34909/tags/index/</loc>
-    <lastmod>2025-06-01T15:05:36+01:00</lastmod>
+    <loc>https://victorschumann.com/</loc>
+    <lastmod>2025-05-06T16:40:50+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:34909/post/</loc>
-    <lastmod>2025-06-01T15:05:36+01:00</lastmod>
+    <loc>https://victorschumann.com/post/day_one/</loc>
+    <lastmod>2025-05-06T16:40:50+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:34909/tags/</loc>
-    <lastmod>2025-06-01T15:05:36+01:00</lastmod>
+    <loc>https://victorschumann.com/tags/git/</loc>
+    <lastmod>2025-05-06T16:40:50+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:34909/tags/git/</loc>
+    <loc>https://victorschumann.com/post/</loc>
+    <lastmod>2025-05-06T16:40:50+01:00</lastmod>
+  </url><url>
+    <loc>https://victorschumann.com/tags/programming/</loc>
+    <lastmod>2025-05-06T16:40:50+01:00</lastmod>
+  </url><url>
+    <loc>https://victorschumann.com/tags/</loc>
+    <lastmod>2025-05-06T16:40:50+01:00</lastmod>
+  </url><url>
+    <loc>https://victorschumann.com/tags/web/</loc>
+    <lastmod>2025-05-06T16:40:50+01:00</lastmod>
+  </url><url>
+    <loc>https://victorschumann.com/post/create-hugo-blog/</loc>
     <lastmod>2024-09-01T15:05:36+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:34909/post/create-hugo-blog/</loc>
-    <lastmod>2024-09-01T15:05:36+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:34909/tags/programming/</loc>
-    <lastmod>2024-09-01T15:05:36+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:34909/tags/web/</loc>
-    <lastmod>2024-09-01T15:05:36+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:34909/archives/</loc>
+    <loc>https://victorschumann.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:34909/about/</loc>
+    <loc>https://victorschumann.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:34909/categories/</loc>
+    <loc>https://victorschumann.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:34909/series/</loc>
+    <loc>https://victorschumann.com/series/</loc>
   </url>
 </urlset>
