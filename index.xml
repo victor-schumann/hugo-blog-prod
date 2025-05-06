@@ -2,32 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>victorschumann</title>
-    <link>https://victorschumann.com/</link>
+    <link>http://localhost:34909/</link>
     <description>Recent content on victorschumann</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2024, victorschumann.com</copyright>
-    <lastBuildDate>Sun, 01 Sep 2024 15:05:36 +0100</lastBuildDate>
-    <atom:link href="https://victorschumann.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 May 2025 15:05:30 +0100</lastBuildDate>
+    <atom:link href="http://localhost:34909/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The 3-2-1 Code Challenge</title>
+      <link>http://localhost:34909/post/programming-challenge/</link>
+      <pubDate>Mon, 05 May 2025 15:05:30 +0100</pubDate>
+      <guid>http://localhost:34909/post/programming-challenge/</guid>
+      <description>&lt;h1 id=&#34;idea&#34;&gt;Idea&lt;/h1&gt;&#xA;&lt;p&gt;A daily checklist with the goal of honing my tech skills and finding me a job in the area. The idea came about after I was looking for ways to be more productive (and get a job faster!)&lt;/p&gt;&#xA;&lt;h1 id=&#34;execution&#34;&gt;Execution&lt;/h1&gt;&#xA;&lt;p&gt;Simple checklist, cannot get it wrong.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✅ 3 programming exercises from Leetcode&lt;/li&gt;&#xA;&lt;li&gt;✅ 2 job applications&lt;/li&gt;&#xA;&lt;li&gt;✅ 1 blog post&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Then, I will update this post weekly with the list and some stats. Hope it works!&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How to Create a Hugo Blog Using GitHub</title>
-      <link>https://victorschumann.com/post/create-hugo-blog/</link>
+      <link>http://localhost:34909/post/create-hugo-blog/</link>
       <pubDate>Sun, 01 Sep 2024 15:05:36 +0100</pubDate>
-      <guid>https://victorschumann.com/post/create-hugo-blog/</guid>
+      <guid>http://localhost:34909/post/create-hugo-blog/</guid>
       <description>&lt;p&gt;I am a professional developer, but I believe you do not need to be one to build a blog with some code. There are many tools out there that (usually with a fee) allow us to create websites without programming, and it is okay to use them.&lt;/p&gt;&#xA;&lt;p&gt;However, if you, like me, just want a simple blog that you&amp;rsquo;d like to have control over, likes to code you can go with this approach.&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>https://victorschumann.com/archives/</link>
+      <link>http://localhost:34909/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://victorschumann.com/archives/</guid>
+      <guid>http://localhost:34909/archives/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>https://victorschumann.com/about/</link>
+      <link>http://localhost:34909/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      <guid>https://victorschumann.com/about/</guid>
+      <guid>http://localhost:34909/about/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;Software Developer @ Leiria, Portugal&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;mailto:contact@victorschumann.eu&#34;&gt;contact@victorschumann.eu&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://wa.me/351910998817?text=Hello%2C%20how%20are%20you%3F%0AI%20found%20your%20number%20in%20your%20website%20and%20I%20have%20a%20few%20questions%20I%20would%20like%20to%20discuss.%0AThank%20you!&#34;&gt;+351 910-998-817&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;profile&#34;&gt;Profile&lt;/h2&gt;&#xA;&lt;p&gt;Python Developer with experience in API design, backend services, and full-stack solutions. I deliver systems with modern Python and database frameworks, focused on clean code and scalable architecture supported by testing.&lt;/p&gt;&#xA;&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Python/Odoo Developer&lt;/strong&gt; | Arxi Portugal | Apr 2023 - Present&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Built and maintained Odoo modules with custom Python logic for ERP automation.&lt;/li&gt;&#xA;&lt;li&gt;Developed FastAPI services integrated with Odoo and mobile clients.&lt;/li&gt;&#xA;&lt;li&gt;Improved CI/CD pipelines and deployment for internal business tools.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Junior Angular Developer&lt;/strong&gt; | NINC | Remote | Sep 2022 - Apr 2023&lt;/p&gt;</description>
     </item>
   </channel>
