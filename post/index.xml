@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2024, victorschumann.com</copyright>
-    <lastBuildDate>Tue, 06 May 2025 16:40:50 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 12:44:47 +0100</lastBuildDate>
     <atom:link href="https://victorschumann.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The 3-2-1 Code Challenge</title>
@@ -15,6 +15,13 @@
       <pubDate>Mon, 05 May 2025 15:05:30 +0100</pubDate>
       <guid>https://victorschumann.com/post/programming-challenge/</guid>
       <description>&lt;h1 id=&#34;idea&#34;&gt;Idea&lt;/h1&gt;&#xA;&lt;p&gt;A weekly checklist with the goal of honing my tech skills and finding me a job in the area. The idea came about after I was looking for ways to be more productive (and get a job faster!)&lt;/p&gt;&#xA;&lt;h1 id=&#34;execution&#34;&gt;Execution&lt;/h1&gt;&#xA;&lt;p&gt;Simple checklist, cannot get it wrong.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✅ 3 programming exercises from Leetcode&lt;/li&gt;&#xA;&lt;li&gt;✅ 2 job applications&lt;/li&gt;&#xA;&lt;li&gt;✅ 1 blog post&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Then, I will update this post weekly with the list and some stats. Hope it works!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Iberian Peninsula Blackout of 2025</title>
+      <link>https://victorschumann.com/post/blackout/</link>
+      <pubDate>Sun, 11 May 2025 12:44:47 +0100</pubDate>
+      <guid>https://victorschumann.com/post/blackout/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/2025_Iberian_Peninsula_blackout&#34;&gt;Wikipedia Article&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h1 id=&#34;1130-west&#34;&gt;11:30 WEST&lt;/h1&gt;&#xA;&lt;p&gt;I was finishing a few quality checks when the lights went out. It had happened a couple of times that month due to some repairs at the office, so we got back to work with cellphone data for some time. A few minutes later, though, the gossip began.&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Porto and Lisbon are without light as well.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Have you heard about it? Airports and hospitals in Porto alre already using emergency power.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Week #1 - Leetcode and QA</title>
