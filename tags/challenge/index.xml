@@ -1,27 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Web on victorschumann</title>
-    <link>https://victorschumann.com/tags/web/</link>
-    <description>Recent content in Web on victorschumann</description>
+    <title>Challenge on victorschumann</title>
+    <link>https://victorschumann.com/tags/challenge/</link>
+    <description>Recent content in Challenge on victorschumann</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2024, victorschumann.com</copyright>
     <lastBuildDate>Mon, 05 May 2025 15:05:30 +0100</lastBuildDate>
-    <atom:link href="https://victorschumann.com/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://victorschumann.com/tags/challenge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The 3-2-1 Code Challenge</title>
       <link>https://victorschumann.com/post/programming-challenge/</link>
       <pubDate>Mon, 05 May 2025 15:05:30 +0100</pubDate>
       <guid>https://victorschumann.com/post/programming-challenge/</guid>
       <description>&lt;h1 id=&#34;idea&#34;&gt;Idea&lt;/h1&gt;&#xA;&lt;p&gt;A weekly checklist with the goal of honing my tech skills and finding me a job in the area. The idea came about after I was looking for ways to be more productive (and get a job faster!)&lt;/p&gt;&#xA;&lt;h1 id=&#34;execution&#34;&gt;Execution&lt;/h1&gt;&#xA;&lt;p&gt;Simple checklist, cannot get it wrong.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✅ 3 programming exercises from Leetcode&lt;/li&gt;&#xA;&lt;li&gt;✅ 2 job applications&lt;/li&gt;&#xA;&lt;li&gt;✅ 1 blog post&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Then, I will update this post weekly with the list and some stats. Hope it works!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>How to Create a Hugo Blog Using GitHub</title>
-      <link>https://victorschumann.com/post/create-hugo-blog/</link>
-      <pubDate>Sun, 01 Sep 2024 15:05:36 +0100</pubDate>
-      <guid>https://victorschumann.com/post/create-hugo-blog/</guid>
-      <description>&lt;p&gt;I am a professional developer, but I believe you do not need to be one to build a blog with some code. There are many tools out there that (usually with a fee) allow us to create websites without programming, and it is okay to use them.&lt;/p&gt;&#xA;&lt;p&gt;However, if you, like me, just want a simple blog that you&amp;rsquo;d like to have control over, likes to code you can go with this approach.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

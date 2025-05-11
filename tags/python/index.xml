@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on victorschumann</title>
+    <link>https://victorschumann.com/tags/python/</link>
+    <description>Recent content in Python on victorschumann</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>© 2024, victorschumann.com</copyright>
+    <lastBuildDate>Tue, 06 May 2025 16:40:50 +0100</lastBuildDate>
+    <atom:link href="https://victorschumann.com/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week #1 - Leetcode and QA</title>
+      <link>https://victorschumann.com/post/week_one/</link>
+      <pubDate>Tue, 06 May 2025 16:40:50 +0100</pubDate>
+      <guid>https://victorschumann.com/post/week_one/</guid>
+      <description>&lt;h1 id=&#34;challenges&#34;&gt;Challenges&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/reverse-vowels-of-a-string/&#34; target=&#34;_blank&#34;&gt;345. Reverse Vowels of a String&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&amp;envId=leetcode-75&#34; target=&#34;_blank&#34;&gt;151. Reverse Words in a String&#xA;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/move-zeroes/&#34; target=&#34;_blank&#34;&gt;283. Move Zeroes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I will have to revisit moving zeroes to make sure it stick, it is not very intuitive despite sounding like such a simple thing to do.&lt;/p&gt;&#xA;&lt;h1 id=&#34;roles&#34;&gt;Roles&lt;/h1&gt;&#xA;&lt;p&gt;Today I had a Python Developer Interview and I applied for a QA Tester interview.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

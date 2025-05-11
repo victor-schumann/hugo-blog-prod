@@ -7,27 +7,20 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2024, victorschumann.com</copyright>
-    <lastBuildDate>Wed, 07 May 2025 21:50:17 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 06 May 2025 16:40:50 +0100</lastBuildDate>
     <atom:link href="https://victorschumann.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The 3-2-1 Code Challenge</title>
       <link>https://victorschumann.com/post/programming-challenge/</link>
       <pubDate>Mon, 05 May 2025 15:05:30 +0100</pubDate>
       <guid>https://victorschumann.com/post/programming-challenge/</guid>
-      <description>&lt;h1 id=&#34;idea&#34;&gt;Idea&lt;/h1&gt;&#xA;&lt;p&gt;A daily checklist with the goal of honing my tech skills and finding me a job in the area. The idea came about after I was looking for ways to be more productive (and get a job faster!)&lt;/p&gt;&#xA;&lt;h1 id=&#34;execution&#34;&gt;Execution&lt;/h1&gt;&#xA;&lt;p&gt;Simple checklist, cannot get it wrong.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✅ 3 programming exercises from Leetcode&lt;/li&gt;&#xA;&lt;li&gt;✅ 2 job applications&lt;/li&gt;&#xA;&lt;li&gt;✅ 1 blog post&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Then, I will update this post weekly with the list and some stats. Hope it works!&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;idea&#34;&gt;Idea&lt;/h1&gt;&#xA;&lt;p&gt;A weekly checklist with the goal of honing my tech skills and finding me a job in the area. The idea came about after I was looking for ways to be more productive (and get a job faster!)&lt;/p&gt;&#xA;&lt;h1 id=&#34;execution&#34;&gt;Execution&lt;/h1&gt;&#xA;&lt;p&gt;Simple checklist, cannot get it wrong.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✅ 3 programming exercises from Leetcode&lt;/li&gt;&#xA;&lt;li&gt;✅ 2 job applications&lt;/li&gt;&#xA;&lt;li&gt;✅ 1 blog post&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Then, I will update this post weekly with the list and some stats. Hope it works!&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Day #2 - Backend, fullstack or QA?</title>
-      <link>https://victorschumann.com/post/day_two/</link>
-      <pubDate>Wed, 07 May 2025 21:50:17 +0100</pubDate>
-      <guid>https://victorschumann.com/post/day_two/</guid>
-      <description>&lt;h1 id=&#34;challenges&#34;&gt;Challenges&lt;/h1&gt;&#xA;&lt;!-- - &lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;&lt;/a&gt;&#xA;- &lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;&lt;/a&gt;&#xA;- &lt;a href=&#34;&#34; target=&#34;_blank&#34;&gt;&lt;/a&gt; --&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/move-zeroes/description/?envType=study-plan-v2&amp;envId=leetcode-75&#34; target=&#34;_blank&#34;&gt;283. Move Zeroes&#xA;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/is-subsequence/submissions/1628145348/?envType=study-plan-v2&amp;envId=leetcode-75&#34; target=&#34;_blank&#34;&gt;392. Is Subsequence&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/container-with-most-water/description/?envType=study-plan-v2&amp;envId=leetcode-75&#34; target=&#34;_blank&#34;&gt;11. Container With Most Water&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div style=&#34;text-align: justify;&#34;&gt;&#xA;Two pointers are very against my nature. I see the answer visible in my face, but I have a hard time translating it to numbers and code.&#xA;&lt;p&gt;What helped with the subsequence question was figuring out there was an easy way to &amp;ldquo;lock in&amp;rdquo; with the j-pointer to make all the verifications before moving on the next iteration. That thinking did not work well with the container problem. I will revisit it tomorrow.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Day #1 - Leetcode and QA</title>
-      <link>https://victorschumann.com/post/day_one/</link>
+      <title>Week #1 - Leetcode and QA</title>
+      <link>https://victorschumann.com/post/week_one/</link>
       <pubDate>Tue, 06 May 2025 16:40:50 +0100</pubDate>
-      <guid>https://victorschumann.com/post/day_one/</guid>
+      <guid>https://victorschumann.com/post/week_one/</guid>
       <description>&lt;h1 id=&#34;challenges&#34;&gt;Challenges&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/reverse-vowels-of-a-string/&#34; target=&#34;_blank&#34;&gt;345. Reverse Vowels of a String&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&amp;envId=leetcode-75&#34; target=&#34;_blank&#34;&gt;151. Reverse Words in a String&#xA;&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://leetcode.com/problems/move-zeroes/&#34; target=&#34;_blank&#34;&gt;283. Move Zeroes&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I will have to revisit moving zeroes to make sure it stick, it is not very intuitive despite sounding like such a simple thing to do.&lt;/p&gt;&#xA;&lt;h1 id=&#34;roles&#34;&gt;Roles&lt;/h1&gt;&#xA;&lt;p&gt;Today I had a Python Developer Interview and I applied for a QA Tester interview.&lt;/p&gt;</description>
     </item>
     <item>
