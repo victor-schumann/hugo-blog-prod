@@ -7,90 +7,69 @@
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© 2024, victorschumann.com</copyright>
-    <lastBuildDate>Sun, 11 May 2025 12:44:47 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 11:30:00 +0100</lastBuildDate>
     <atom:link href="https://victorschumann.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blackout</title>
       <link>https://victorschumann.com/tags/blackout/</link>
-      <pubDate>Sun, 11 May 2025 12:44:47 +0100</pubDate>
+      <pubDate>Sun, 11 May 2025 11:30:00 +0100</pubDate>
       <guid>https://victorschumann.com/tags/blackout/</guid>
       <description></description>
     </item>
     <item>
       <title>Blog</title>
       <link>https://victorschumann.com/tags/blog/</link>
-      <pubDate>Sun, 11 May 2025 12:44:47 +0100</pubDate>
+      <pubDate>Sun, 11 May 2025 11:30:00 +0100</pubDate>
       <guid>https://victorschumann.com/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Europe</title>
       <link>https://victorschumann.com/tags/europe/</link>
-      <pubDate>Sun, 11 May 2025 12:44:47 +0100</pubDate>
+      <pubDate>Sun, 11 May 2025 11:30:00 +0100</pubDate>
       <guid>https://victorschumann.com/tags/europe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Index</title>
+      <link>https://victorschumann.com/tags/index/</link>
+      <pubDate>Sun, 11 May 2025 11:30:00 +0100</pubDate>
+      <guid>https://victorschumann.com/tags/index/</guid>
       <description></description>
     </item>
     <item>
       <title>Life</title>
       <link>https://victorschumann.com/tags/life/</link>
-      <pubDate>Sun, 11 May 2025 12:44:47 +0100</pubDate>
+      <pubDate>Sun, 11 May 2025 11:30:00 +0100</pubDate>
       <guid>https://victorschumann.com/tags/life/</guid>
       <description></description>
     </item>
     <item>
       <title>People</title>
       <link>https://victorschumann.com/tags/people/</link>
-      <pubDate>Sun, 11 May 2025 12:44:47 +0100</pubDate>
+      <pubDate>Sun, 11 May 2025 11:30:00 +0100</pubDate>
       <guid>https://victorschumann.com/tags/people/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Programming</title>
-      <link>https://victorschumann.com/tags/programming/</link>
-      <pubDate>Tue, 06 May 2025 16:40:50 +0100</pubDate>
-      <guid>https://victorschumann.com/tags/programming/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>https://victorschumann.com/tags/python/</link>
-      <pubDate>Tue, 06 May 2025 16:40:50 +0100</pubDate>
-      <guid>https://victorschumann.com/tags/python/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Qa</title>
-      <link>https://victorschumann.com/tags/qa/</link>
-      <pubDate>Tue, 06 May 2025 16:40:50 +0100</pubDate>
-      <guid>https://victorschumann.com/tags/qa/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Challenge</title>
-      <link>https://victorschumann.com/tags/challenge/</link>
-      <pubDate>Mon, 05 May 2025 15:05:30 +0100</pubDate>
-      <guid>https://victorschumann.com/tags/challenge/</guid>
       <description></description>
     </item>
     <item>
       <title>Git</title>
       <link>https://victorschumann.com/tags/git/</link>
-      <pubDate>Mon, 05 May 2025 15:05:30 +0100</pubDate>
+      <pubDate>Sun, 01 Sep 2024 15:05:36 +0100</pubDate>
       <guid>https://victorschumann.com/tags/git/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Programming</title>
+      <link>https://victorschumann.com/tags/programming/</link>
+      <pubDate>Sun, 01 Sep 2024 15:05:36 +0100</pubDate>
+      <guid>https://victorschumann.com/tags/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Web</title>
       <link>https://victorschumann.com/tags/web/</link>
-      <pubDate>Mon, 05 May 2025 15:05:30 +0100</pubDate>
-      <guid>https://victorschumann.com/tags/web/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Hugo</title>
-      <link>https://victorschumann.com/tags/hugo/</link>
       <pubDate>Sun, 01 Sep 2024 15:05:36 +0100</pubDate>
-      <guid>https://victorschumann.com/tags/hugo/</guid>
+      <guid>https://victorschumann.com/tags/web/</guid>
       <description></description>
     </item>
   </channel>
